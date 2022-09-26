@@ -1,0 +1,43 @@
+.product-shows{
+    width: 300px;
+    height: 510px;
+    border: 1px solid gray;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 5px;
+    position: relative;
+}
+.product-shows img {
+width: 280px;
+height: 280px;
+
+
+}
+.pro-name{
+
+ margin: 10px 0;
+}
+.pro-price{
+   margin: 7px 0;
+
+}
+.pro-manufec{
+
+ margin: 10px;
+}
+.pro-ra{
+
+    margin: 10px 0;
+}
+.pro-btn{
+background-color: #FFE0B3;
+    color:black ;
+    width:100%;
+    height: 48px;
+    margin-top: 10px;
+    position: absolute;
+    
+}
+ .card:hover{
+    background-color: aqua;
+}
